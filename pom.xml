@@ -17,6 +17,7 @@
 
     <modules>
         <module>servlet-annotation</module>
+        <module>servlet-java-config</module>
     </modules>
 
 
