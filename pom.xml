@@ -34,6 +34,7 @@
         <module>servlet-fragment2</module>
         <module>servlet-fragement-aggregation</module>
         <module>servlet-container-init-01</module>
+        <module>servlet-container-init-impl-01</module>
     </modules>
 
 
