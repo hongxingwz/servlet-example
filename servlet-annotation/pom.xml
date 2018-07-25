@@ -10,8 +10,9 @@
 
     <artifactId>servlet-annotation</artifactId>
     <packaging>war</packaging>
-
+    <description>servlet annotion config</description>
     <name>servlet-annotation Maven Webapp</name>
+    <url>https://github.com/hongxingwz/servlet-example/tree/master/servlet-java-config</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

@@ -4,16 +4,27 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.jianglei</groupId>
-    <artifactId>servlet</artifactId>
+    <artifactId>servlet-example</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <name>servlet example</name>
+    <description>Show how to use servlet</description>
+    <url>https://github.com/hongxingwz/spring-example</url>
+
+    <developers>
+        <developer>
+            <id>JiangLei</id>
+            <name>JiangLei</name>
+            <email>hongxingwz@gmail.com</email>
+        </developer>
+    </developers>
 
     <properties>
         <servlet.version>4.0.0</servlet.version>
         <junit.version>4.12</junit.version>
         <spring.version>5.0.5.RELEASE</spring.version>
-        <maven.compiler.source>1.7</maven.compiler.source>
-        <maven.compiler.target>1.7</maven.compiler.target>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
 
     <modules>
@@ -22,6 +33,7 @@
         <module>servlet-fragment</module>
         <module>servlet-fragment2</module>
         <module>servlet-fragement-aggregation</module>
+        <module>servlet-container-init-01</module>
     </modules>
 
 
