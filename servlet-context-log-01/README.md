@@ -3,7 +3,7 @@
 
 ## IDEA
 如果你使用的是IDEA编辑器，则在Tomcat Localhost Log控制台输出   
-[log.png](log.png)
+![log.png](log.png)
 ## TOMCAT
 如果直接丢到Tomcat中跑的话，会输出在localhost.xxxx-xx-xx.log
 
