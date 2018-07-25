@@ -35,6 +35,7 @@
         <module>servlet-fragement-aggregation</module>
         <module>servlet-container-init-01</module>
         <module>servlet-container-init-impl-01</module>
+        <module>servlet-context-log-01</module>
     </modules>
 
 
